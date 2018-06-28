@@ -3,7 +3,7 @@ About cryptocurrency security. (reverse, exploit, fuzz..)
 
 欢迎加入！此List会跟踪最新情报实时更新。
 
-![alt text](https://www.slowmist.com/eth214_res/img/logo.png)
+![alt text](https://avatars2.githubusercontent.com/u/25600994?s=400&v=4)
 
 ## Tools
 
